@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/567523990538356835/“>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papablacksheep" alt="papablacksheep" /></a> </p>
+<p align="left"> <a href="[magnet:?xt=urn:btih:FBAF5B0767CB2CF0AD1B857EE91C42B36CDF4E4A](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)"><img src="https://github-profile-trophy.vercel.app/?user\\\\\\name=papablacksheep" alt="papablacksheep" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/papablacksheeep" target="blank"><img src="https://img.shields.io/twitter/follow/papablacksheeep?logo=twitter&style=for-the-badge" alt="papablacksheeep" /></a> </p>
 
-- 🔭 I’m currently working on **many websites for clients**
+- 🔭 I’m currently working for **nike**
 
 - 🌱 I’m currently learning **React Native**
 
